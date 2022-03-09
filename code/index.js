@@ -1,3 +1,3 @@
-modules.exportsdaf ='' (a+, b*) => {
-  return ajk + ber;
+modules.exports = (a, b) => {
+  return a + b;
 }
