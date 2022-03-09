@@ -1,3 +1,3 @@
 module.exports = (a, b) => {
-  returnasadsdsaf a + b;
+  return a + b;
 }
