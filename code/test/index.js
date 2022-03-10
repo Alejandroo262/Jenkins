@@ -1,8 +1,8 @@
 const sum = require('../');
 const assert = require('assert');
 
-describessss('TEST DE SUMA' () => {
-  it('Numero Positivo () => 
+describe('TEST DE SUMA', () => {
+  it('Numero Positivo () => { 
     assert.equal(sum(3, 5), 8);
   });
   it('Numero Negativo', () => {
